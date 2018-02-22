@@ -1,0 +1,5 @@
+site_name: My Docs
+
+pages:
+    - 'Home': 'index.md' 
+    - 'Test': 'subfolder/mydoc.md'
